@@ -3,4 +3,5 @@
 
 🙋‍♀️ We are JK-JehanKandy <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JK-JehanKandy)](https://github.com/JK-JehanKandy/github-profile-trophy)
+### Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JK-JehanKandy&langs_count=10&show_icons=true&theme=radical">
